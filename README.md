@@ -37,8 +37,8 @@ The following machine learning models are still to be implemented:
 
 Future work could involve:
 
-* Implementing the remaining machine learning models (like  Deep learning models, such as convolutional neural networks (CNNs) and recurrent neural networks (RNNs))
-* Ensemble models, such as stacking and blending) and evaluating their performance
+* Implementing other machine learning models (like  Deep learning models, such as convolutional neural networks (CNNs) and recurrent neural networks (RNNs))
+* Ensemble models, such as stacking and blending and evaluating their performance
 * Using a larger dataset that includes more features
 * Developing a more sophisticated voting classifier
 * Applying the proposed machine learning approach to other games
